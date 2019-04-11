@@ -1,0 +1,2 @@
+https://dzone.com/articles/aspnet-core-crud-using-blazor-and-entity-framework
+https://tomassetti.me/blazor-net-in-the-browser/
